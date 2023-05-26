@@ -1,6 +1,6 @@
 name: Quang2107Core
 version: '${project.version}'
-main: me.quang2107.joinquitmessage
+main: me.quang2107.quang2107core
 api-version: 1.19
 authors: [ Quang2107 ]
-description: A Plugin Core For Survival Server
+description: A Plugin Core For Survival Server.
